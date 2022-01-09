@@ -9,3 +9,5 @@
 5. [Fontawesome API](https://www.fontawesome.com) for brand icons.
 
 Nintendo Game Info Page is a [Frontend Practice](https://www.frontendpractice.com/project/nintendo) project intended to sharpen front-end development skills.
+
+Nintendo &trade; is trademark of [Nintendo](https://www.nintendo.com).

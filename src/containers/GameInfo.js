@@ -59,7 +59,7 @@ function GameInfo() {
           </div>
           {/* Grid Item */}
           <div className="flex flex-row items-center justify-left gap-2">
-            <i class="fa-regular fa-calendar" />
+            <i class="fa-regular fa-building" />
             <h3 className="font-bold text-lg">Publisher:</h3>
             <p className="opacity-60 ml-4">Concerned Ape</p>
           </div>
@@ -68,19 +68,19 @@ function GameInfo() {
         {/* Grid Section (Game Info) */}
         <div className="grid grid-cols-1 gap-2 md:grid-cols-1 bg-check">
           <div className="flex flex-row items-center justify-left gap-2">
-            <i class="fa-regular fa-calendar" />
+            <i class="fa-regular fa-sun" />
             <h3 className="font-bold text-lg">Developer:</h3>
             <p className="opacity-60 ml-4">ConcernedApe</p>
           </div>
           {/* Grid Item */}
           <div className="flex flex-row items-center justify-left gap-2">
-            <i class="fa-regular fa-calendar" />
+            <i class="fa-regular fa-circle-xmark" />
             <h3 className="font-bold text-lg">Game file size:</h3>
             <p className="opacity-60 ml-4">1.5 GB</p>
           </div>
           {/* Grid Item */}
           <div className="flex flex-row items-center justify-left gap-2">
-            <i class="fa-regular fa-calendar" />
+            <i class="fa-regular fa-flag" />
             <h3 className="font-bold text-lg">Supported languages:</h3>
             <p className="opacity-60 ml-4">
               Japanese, French, German, Italian, Spanish, Korean, Portuguese,

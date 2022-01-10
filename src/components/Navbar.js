@@ -2,7 +2,7 @@ import NintendoLogo from "../assets/nintendo.png";
 
 function Navbar() {
   return (
-    <div className="flex flex-col justify-center items-center fixed top-0 left-0 right-0">
+    <div className="flex flex-col justify-center items-center relative w-full">
       {/* Top Nav */}
       <div className="flex flex-column justify-between items-center bg-white w-full border-b border-black border-opacity-30">
         <div className="flex flex-row items-center justify-center">

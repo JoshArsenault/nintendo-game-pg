@@ -93,7 +93,7 @@ function GameInfo() {
         <div className="flex flex-col items-left justify-left gap-5 gray-bg mt-5 p-3">
           <h3 className="text-xl font-semibold">Supported Play Modes:</h3>
           {/* Platforms */}
-          <div className="flex flex-row items-center justify-center gap-5 mt-3">
+          <div className="flex flex-row items-center justify-center gap-5 mt-3 text-center">
             {/* Platform Item */}
             <div className="flex flex-col items-center justify-center gap-5">
               <i class="fa-solid fa-tv fa-2xl" />

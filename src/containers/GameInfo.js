@@ -116,6 +116,8 @@ function GameInfo() {
             separately). See{" "}
             <a
               href="https:/www.nintendo.com"
+              target="_blank"
+              rel="noreferrer"
               className="text-red-500 underline"
             >
               support
@@ -157,6 +159,8 @@ function GameInfo() {
 
           <a
             href="https://www.nintendo.com"
+            target="_blank"
+            rel="noreferrer"
             className="font-semibold flex flex-row items-center justify-left gap-2"
           >
             <span>Learn More</span>
@@ -192,7 +196,12 @@ function GameInfo() {
             Nintendo Switch Online membership (sold separately) and Nintendo
             Account required for online play. Not available in all countries.
             Internet access required for online features. Terms apply.
-            <a href="https://www.google.com" className="text-red-500 underline">
+            <a
+              href="https://www.google.com"
+              target="_blank"
+              rel="noreferrer"
+              className="text-red-500 underline"
+            >
               nintendo.com/switch-online
             </a>
           </p>

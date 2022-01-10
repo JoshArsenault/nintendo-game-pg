@@ -30,7 +30,12 @@ function Navbar() {
             {/* Support */}
             <div className="hidden md:inline-block nav-item">
               <i class="fa-solid fa-circle-info" />
-              <a href="https://www.nintendo.com" className="font-semibold">
+              <a
+                href="https://www.nintendo.com"
+                target="_blank"
+                rel="noreferrer"
+                className="font-semibold"
+              >
                 Support
               </a>
             </div>
@@ -38,7 +43,12 @@ function Navbar() {
             {/* Wish List */}
             <div className="hidden md:inline-block nav-item">
               <i class="fa-solid fa-heart" />
-              <a href="https://www.nintendo.com" className="font-semibold">
+              <a
+                href="https://www.nintendo.com"
+                target="_blank"
+                rel="noreferrer"
+                className="font-semibold"
+              >
                 Wish List
               </a>
             </div>
@@ -65,7 +75,12 @@ function Navbar() {
         {/* Games */}
         <div className="inline-block nav-item nav-bottom">
           <i class="fa-solid fa-gamepad" />
-          <a href="https://www.nintendo.com" className="font-semibold">
+          <a
+            href="https://www.nintendo.com"
+            target="_blank"
+            rel="noreferrer"
+            className="font-semibold"
+          >
             Games
           </a>
           <i class="fa-solid fa-caret-down" />
@@ -74,7 +89,12 @@ function Navbar() {
         {/* Hardware */}
         <div className="inline-block nav-item nav-bottom">
           <i class="fa-solid fa-gamepad"></i>
-          <a href="https://www.nintendo.com" className="font-semibold">
+          <a
+            href="https://www.nintendo.com"
+            target="_blank"
+            rel="noreferrer"
+            className="font-semibold"
+          >
             Hardware
           </a>
           <i class="fa-solid fa-caret-down" />
@@ -83,7 +103,12 @@ function Navbar() {
         {/* News and Events */}
         <div className="inline-block nav-item nav-bottom">
           <i class="fa-solid fa-gamepad"></i>
-          <a href="https://www.nintendo.com" className="font-semibold">
+          <a
+            href="https://www.nintendo.com"
+            target="_blank"
+            rel="noreferrer"
+            className="font-semibold"
+          >
             News {"&"} Events
           </a>
         </div>
@@ -91,7 +116,12 @@ function Navbar() {
         {/* Play Nintendo */}
         <div className="inline-block nav-item nav-bottom">
           <i class="fa-solid fa-star"></i>
-          <a href="https://www.nintendo.com" className="font-semibold">
+          <a
+            href="https://www.nintendo.com"
+            target="_blank"
+            rel="noreferrer"
+            className="font-semibold"
+          >
             Play Nintendo
           </a>
         </div>
